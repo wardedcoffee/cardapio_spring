@@ -36,7 +36,7 @@ CREATE DATABASE food;
 ```
 
 ---
-## Criar o usuário magros / Create user magros
+## Criar o usuário generic_user / Create user generic_user
 
 ```sql
 CREATE USER generic_user WITH PASSWORD 'generic_password'; 
